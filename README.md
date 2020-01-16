@@ -2,8 +2,9 @@
 
 **Introduction:**
 
-Shawn's Scouting app is the people’s choice for review the dog walker services and rating the company according to their services. In the Shawn’s scouting app dog walker service provider will signup and add their company details  get listed on shawn’s scouting  to be a part of a prolific & elite group of dog walker service providers. Further enhance your online presence for improved ROIs and expand your business. Ask your customers to leave review for your services and these verified & unbiased reviews from authenticated customers will help you to gain trust of prospective clients.
-We provide the most clinical and genuine platform to showcase your business as top dog walker’s app development companies. Make sure your business is found when decision makers are searching.
+Shawn's Scouting - is a Flutter UI using which you can develop beautiful Mobile Apps for Android & iOS.  It's a multipurpose Flutter UI for developing Business Listing, Directory & Review Apps. The listings can be sorted, searched, and you can see the listings on Map.
+
+The app is especially for dog Walker’s or Pet Care Servives, however it can be used for any tupe of Local Business listing apps which includes Doctor's listing, Restraurant's listing, Travel location listing etc.
 
 
 **Table of Contents:**

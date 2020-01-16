@@ -6,26 +6,34 @@ Shawn's Scouting app is the people’s choice for review the dog walker services
 We provide the most clinical and genuine platform to showcase your business as top dog walker’s app development companies. Make sure your business is found when decision makers are searching.
 
 
-**Table of Contents:
-Overview
-Goals
-Why Flutter?
-Dart Language
-Flutter Packages
-Folder Structure
-How to install Shawn’s Scouting APK in android
-How to install Shawn’s Scouting  IPA file in IOS**
+**Table of Contents:**
+
+**Overview**
+
+**Goals**
+
+**Why Flutter?**
+
+**Dart Language**
+
+**Flutter Packages**
+
+**Folder Structure**
+
+**How to install Shawn’s Scouting APK in android**
+
+**How to install Shawn’s Scouting  IPA file in IOS**
 
 **Overview :-**
 
 Shawn's Scouting - Flutter UI is a Flutter UI using which you can develop beautiful Mobile Apps for Android & iOS.
 Shawn's Scouting industry is expected to grow to over 2 billion dollars by 2022. Seeing the industry trend, Deligence Technologies’ team has developed a dog Walker’s app template using Flutter technology, for developers and Apprenuers who may seek to invest in dog walker’s App development. The template is compatible with both iOS and Android.
 
-**Goals :-
+**Goals :-**
 
 Develop dog's service provider App with seamless UI/UX design for Android and iOS platform. 	
 
-**What you will get here :-
+**What you will get here :-**
  	
 This template is a fixed layout with flutter widgets. It contains a complete UI design for dog walker service providers application for mobile platforms, both android as well as ios.
  	
@@ -55,24 +63,24 @@ Text(‘some text here you want to write’)
 
 
 
-**Why Flutter -
+**Why Flutter -**
 
 We have used flutter as hybrid mobile application development framework.
 Flutter is a free and open source Google mobile UI framework that provides a fast and expressive way for developers to build native apps on both IOS and Android.
 
-**Fast development
+**Fast development**
 
 Flutter engineered for high development velocity. Stateful hot reload allows you to change your code and see it come to life is less than a second without losing the state of the app. Flutter also ships with a rich set of customizable widgets, all built from modem reactive framework.
 
-**Expressive + Flexible UI
+**Expressive + Flexible UI**
 
 Flutter moves to a widget, rendering, animation and gestures into this framework to give you complete control over every pixel on the screen. It means you have the flexibility to build a custom design.
 
-**Native apps for Android and IOS
+**Native apps for Android and IOS**
 
 Flutter apps follow platform conventions and interface details such as scrolling, navigation, icons, fonts, etc. That's why apps built with Flutter features on both of the APPSTORE and GOOGLE PLAY STORE.
 
-**High Performance
+**High Performance**
 
 Flutter doesn’t require a Javascript bridge and the speed is much faster.
 
@@ -81,7 +89,7 @@ For full documentation regarding flutter visit: https://flutter.dev/docs
 
 
 
-**Dart Language -
+**Dart Language -**
 
 In this template we are using dart language. Dart is an object-oriented programming language. Dart is used for writing mobile application code for Flutter. It contributes to the efficiency and effectiveness of app development flow.
 
@@ -91,20 +99,20 @@ Dart uses for generational garbage collection which helps in creating frames for
 For full documentation regarding Dart language visit : https://dart.dev/guides
 
 
-**Flutter Packages-
+**Flutter Packages-**
  
 Flutter supports using shared packages contributed by other developers to the Flutter and Dart ecosystems. This allows quickly building an app without having to develop everything from scratch.
 The Flutter landing page on https://pub.dev displays top packages that are compatible with Flutter (those that declare dependencies generally compatible with Flutter), and supports searching among all published packages.
 In this template we have used multiple  package like simple animation,image picker, flutter rating bar and  flutter map etc  which is available in flutter packages.
 
 
-**Simple Animation -
+**Simple Animation -**
 
 In this template we have used simple animation package which is available in flutter packages.
 name: simple_animations
 version used: simple_animations: ^1.3.4
 
-**Features:
+**Features:**
 
 AnimationControllerX a new, powerful AnimationController
 AnimationControllerMixin to easily setup AnimationControllerX
@@ -115,14 +123,14 @@ MultiTrackTween: Animatable for tweening multiple properties at once
 For more information visit: https://pub.dev/packages/simple_animations
 
 
-**Flutter Rating bar-
+**Flutter Rating bar-**
 
 In this template we have used flutter rating bar package which is available in flutter packages.
 name: flutter_rating_bar
 version used: flutter_rating_bar: ^3.0.1+1
 customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
 
-**Salient Features: 
+**Salient Features: **
 
 Set minimum and maximum rating
 Any widgets can be used as as rating bar/indicator items
@@ -132,21 +140,21 @@ Glows on interaction
 
 For more information visit: https://pub.dev/packages/flutter_rating_bar
 
-**Flutter Map -
+**Flutter Map -**
 
 In this template we have used Flutter map box package which is available in flutter packages.
 name:flutter_map
 version used: flutter_map: ^0.8.2
 Flutter map  is a flutter plugin to find available maps installed on a device and launch them with a marker for specified location. Flutter map is using Leaflet mapbox  for  app.
 
-Map box provide a map and  marker, you can change center location and marker location of companies by new lat and long. In the shawn’s Scouting app  we can also  get current location of the user and give direction for company loction. 
+Mapbox provide a map and  marker, you can change center location and marker location of companies by new lat and long. In the shawn’s Scouting app  we can also  get current location of the user and give direction for company loction. 
 
 For more information visit: https://pub.dev/packages/flutter_map
 
 For full documentation regarding flutter packages visit : https://flutter.dev/docs/development/packages-and-plugins/using-packages	
 
 
-**Folder Structure-
+**Folder Structure-**
 
 There are 3 Folders -
 All Code - which contains all the code
@@ -182,8 +190,9 @@ Asset(‘folderName/ImageName.extension’)
 Animation :   Animation folder contains class files for customising animation for whole app. 
 	 	
 		
-**How to install Shawn’s Scouting APK in android -
-What is an APK File?
+**How to install Shawn’s Scouting APK in android -**
+
+**What is an APK File?**
 
 An Android Package Kit (APK for short) is the package file format used by the Android operating system for distribution and installation of mobile apps. Just like Windows (PC) systems use an .exe file for installing software, the APK does the same for Android.
 
@@ -194,7 +203,7 @@ tap on the APK file, and tap Yes when prompted.
 The app will begin installing on your device. Simple.
  How to install Shawn’s Scouting IPA file in IOS -
 
-**What is an IPA file?
+**What is an IPA file?**
 
 A file with the IPA file extension is an iOS App file. They function as containers (like ZIP) for holding the various pieces of data that make up an iPhone, iPad, or iPod touch app; like for games, utilities, weather, social networking, news, and others
 

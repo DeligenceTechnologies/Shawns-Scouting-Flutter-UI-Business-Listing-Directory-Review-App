@@ -1,6 +1,6 @@
 # Shawn's Scouting - Flutter UI
 
-**Introduction:
+**Introduction:**
 
 Shawn's Scouting app is the people’s choice for review the dog walker services and rating the company according to their services. In the Shawn’s scouting app dog walker service provider will signup and add their company details  get listed on shawn’s scouting  to be a part of a prolific & elite group of dog walker service providers. Further enhance your online presence for improved ROIs and expand your business. Ask your customers to leave review for your services and these verified & unbiased reviews from authenticated customers will help you to gain trust of prospective clients.
 We provide the most clinical and genuine platform to showcase your business as top dog walker’s app development companies. Make sure your business is found when decision makers are searching.
@@ -14,9 +14,9 @@ Dart Language
 Flutter Packages
 Folder Structure
 How to install Shawn’s Scouting APK in android
-How to install Shawn’s Scouting  IPA file in IOS
+How to install Shawn’s Scouting  IPA file in IOS**
 
-**Overview :-
+**Overview :-**
 
 Shawn's Scouting - Flutter UI is a Flutter UI using which you can develop beautiful Mobile Apps for Android & iOS.
 Shawn's Scouting industry is expected to grow to over 2 billion dollars by 2022. Seeing the industry trend, Deligence Technologies’ team has developed a dog Walker’s app template using Flutter technology, for developers and Apprenuers who may seek to invest in dog walker’s App development. The template is compatible with both iOS and Android.

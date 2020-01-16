@@ -26,8 +26,9 @@ We provide the most clinical and genuine platform to showcase your business as t
 
 **Overview :-**
 
-Shawn's Scouting - Flutter UI is a Flutter UI using which you can develop beautiful Mobile Apps for Android & iOS.
-Shawn's Scouting industry is expected to grow to over 2 billion dollars by 2022. Seeing the industry trend, Deligence Technologies’ team has developed a dog Walker’s app template using Flutter technology, for developers and Apprenuers who may seek to invest in dog walker’s App development. The template is compatible with both iOS and Android.
+Shawn's Scouting - is a Flutter UI using which you can develop beautiful Mobile Apps for Android & iOS.  It's a multipurpose Flutter UI for developing Business Listing, Directory & Review Apps. The listings can be sorted, searched, and you can see the listings on Map.
+
+The app is especially for dog Walker’s or Pet Care Servives, however it can be used for any tupe of Local Business listing apps which includes Doctor's listing, Restraurant's listing, Travel location listing etc.
 
 **Goals :-**
 
